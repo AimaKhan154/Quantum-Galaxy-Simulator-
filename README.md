@@ -50,6 +50,7 @@ Each shape is generated using mathematical algorithms and smoothly interpolated 
 <img width="766" height="312" alt="image" src="https://github.com/user-attachments/assets/53eb7320-ff5c-4e8a-b826-e9a9482e0db0" />
 
 
+
 🛠️ Technologies Used
 
 HTML5
@@ -65,6 +66,8 @@ MediaPipe Hands (Computer Vision)
 WebGL
 
 🏗️ System Architecture
+
+
 1️⃣ Rendering Engine
 
 Uses Three.js with BufferGeometry to efficiently render thousands of particles using GPU acceleration.
