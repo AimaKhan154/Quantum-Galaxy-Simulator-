@@ -89,5 +89,11 @@ Maps hand position and gestures into particle transformations in real time.
 <img width="1906" height="878" alt="Screenshot 2026-02-20 194221" src="https://github.com/user-attachments/assets/12306675-51d6-497e-8540-83453fa0966e" />
 <img width="1908" height="876" alt="Screenshot 2026-02-20 194202" src="https://github.com/user-attachments/assets/12f7029b-b8a1-407a-8c19-f3dc15faf4ae" />
 <img width="1908" height="881" alt="Screenshot 2026-02-20 194115" src="https://github.com/user-attachments/assets/54b8c755-0e4d-46cb-b9a3-b26b3af99f6d" />
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/3f8a7478-7438-488e-911e-81320cbcfff2" />
+<img width="1884" height="901" alt="image" src="https://github.com/user-attachments/assets/68496f2e-be89-4e3e-9537-61dabec2d8b6" />
+<img width="1883" height="659" alt="image" src="https://github.com/user-attachments/assets/636946e0-05e6-41b8-8fd7-fbdc0f12c43e" />
+
+
+
 
 
