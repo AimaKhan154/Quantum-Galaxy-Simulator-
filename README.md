@@ -47,7 +47,8 @@ Supernova Burst
 
 Each shape is generated using mathematical algorithms and smoothly interpolated for seamless transitions.
 
-<img width="1067" height="335" alt="image" src="https://github.com/user-attachments/assets/ad86d871-ffb2-4995-a550-329f2a3293a6" />
+<img width="766" height="312" alt="image" src="https://github.com/user-attachments/assets/53eb7320-ff5c-4e8a-b826-e9a9482e0db0" />
+
 
 🛠️ Technologies Used
 
