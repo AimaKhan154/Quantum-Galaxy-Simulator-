@@ -1,92 +1,110 @@
-## 🚀 Quantum Shaper — Interactive 3D Particle System
+# 🚀 Quantum Shaper — Interactive 3D Particle System
 
-An advanced real-time 3D particle visualization system powered by gesture recognition.
-Quantum Shaper allows users to manipulate thousands of particles in 3D space using hand movements detected through a webcam.
+**Quantum Shaper** is an advanced **real-time 3D particle visualization system powered by gesture recognition**.  
+It allows users to manipulate thousands of particles in 3D space using **hand movements detected through a webcam**.
 
-This project combines computer graphics, real-time rendering, and computer vision to create an immersive interactive experience.
+This project combines **Computer Graphics, Real-Time Rendering, and Computer Vision** to create an immersive and interactive visual experience.
+
+---
 
 # 📌 Overview
 
-Quantum Shaper renders a dynamic particle system that morphs into multiple mathematically generated shapes. Users control the system using intuitive hand gestures such as movement, pinch, and hand expansion.
+**Quantum Shaper** renders a dynamic particle system that morphs into multiple mathematically generated shapes. Users can control the system using intuitive hand gestures such as:
 
-The application integrates GPU-accelerated rendering with real-time gesture detection to deliver smooth and responsive interaction.
+- Hand movement
+- Pinch gestures
+- Hand expansion and contraction
+
+The system integrates **GPU-accelerated rendering** with **real-time gesture detection**, ensuring smooth and highly responsive interaction.
+
+---
 
 # ✨ Features
 
-🎇 Real-time 3D particle rendering (6000+ particles)
+- 🎇 **Real-time 3D particle rendering** *(6000+ particles)*
+- 🖐️ **Hand gesture recognition via webcam**
+- 🔄 **Smooth morphing between multiple complex shapes**
+- 🌌 **Procedural starfield background**
+- 🎨 **Dynamic color transitions**
+- ⚡ **GPU-accelerated rendering using WebGL**
+- 🧠 **Organic “breathing” particle animation**
+- 📱 **Responsive full-screen canvas**
+- 🎮 **Fully interactive real-time control**
 
-🖐️ Hand gesture recognition via webcam
-
-🔄 Smooth morphing between multiple complex shapes
-
-🌌 Procedural starfield background
-
-🎨 Dynamic color transitions
-
-⚡ GPU-accelerated rendering using WebGL
-
-🧠 Organic “breathing” particle animation
-
-📱 Responsive full-screen canvas
+---
 
 # 🧬 Available Particle Shapes
 
-Nebula Sphere
+The particle system can morph into the following mathematically generated shapes:
 
-Spiral Galaxy
+- 🌌 **Nebula Sphere**
+- 🌀 **Spiral Galaxy**
+- 🧬 **Double Helix (DNA)**
+- 🧊 **Quantum Cube**
+- ❤️ **Cyber Heart**
+- 🍩 **Torus Field**
+- 💥 **Supernova Burst**
 
-Double Helix (DNA)
+Each shape is generated using **mathematical algorithms** and smoothly interpolated to ensure seamless transitions.
 
-Quantum Cube
-
-Cyber Heart
-
-Torus Field
-
-Supernova Burst
-
-Each shape is generated using mathematical algorithms and smoothly interpolated for seamless transitions.
+---
 
 <img width="766" height="312" alt="image" src="https://github.com/user-attachments/assets/53eb7320-ff5c-4e8a-b826-e9a9482e0db0" />
 
-
+---
 
 # 🛠️ Technologies Used
 
-HTML5
+## Frontend
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
-CSS3
+## Graphics & Rendering
+- **Three.js**
+- **WebGL**
+- **GPU BufferGeometry**
 
-JavaScript (ES6)
+## Computer Vision
+- **MediaPipe Hands**
+- **Real-time gesture tracking**
+- **Hand landmark detection**
 
-Three.js (WebGL 3D Rendering)
-
-MediaPipe Hands (Computer Vision)
-
-WebGL
+---
 
 # 🏗️ System Architecture
 
+## 1️⃣ Rendering Engine
+Uses **Three.js BufferGeometry** to efficiently render thousands of particles using **GPU acceleration**, ensuring high performance and smooth visuals.
 
-# 1️⃣ Rendering Engine
+## 2️⃣ Shape Generator
+Implements **mathematical models and algorithms** to generate precise 3D coordinates for various particle formations.
 
-Uses Three.js with BufferGeometry to efficiently render thousands of particles using GPU acceleration.
+## 3️⃣ Animation Engine
+Uses advanced animation techniques including:
 
-# 2️⃣ Shape Generator
+- **LERP (Linear Interpolation)**
+- **Procedural noise functions**
+- **Smooth morphing algorithms**
 
-Implements mathematical models to generate 3D coordinates for different particle structures.
+to create organic and fluid particle motion.
 
-# 3️⃣ Animation Engine
+## 4️⃣ Gesture Recognition Module
+Uses **MediaPipe Hands** to:
 
-Uses interpolation (LERP) and procedural noise functions for smooth morphing and organic movement.
+- Detect hand landmarks
+- Track finger positions
+- Recognize gestures in real time
 
-# 4️⃣ Gesture Recognition
+## 5️⃣ Interaction Controller
+Maps detected gestures to particle transformations such as:
 
-MediaPipe detects hand landmarks and converts them into interaction controls.
+- Rotation
+- Morphing
+- Movement
+- Scaling
 
-# 5️⃣ Interaction Controller
-
-Maps hand position and gestures into particle transformations in real time.
+---
 
 # 📸 Screenshots
 
