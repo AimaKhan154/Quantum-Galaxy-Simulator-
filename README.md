@@ -1,4 +1,4 @@
-Quantum Shaper — Interactive 3D Particle System
+🚀 Quantum Shaper — Interactive 3D Particle System
 
 An advanced real-time 3D particle visualization system powered by gesture recognition.
 Quantum Shaper allows users to manipulate thousands of particles in 3D space using hand movements detected through a webcam.
@@ -47,12 +47,8 @@ Supernova Burst
 
 Each shape is generated using mathematical algorithms and smoothly interpolated for seamless transitions.
 
-🕹️ Gesture Controls
-Gesture	Action
-✋ Move Hand	Rotate and reposition particle system
-👌 Pinch	Switch to next shape
-👐 Open Hand	Expand particle structure
-✊ Close Hand	Compress particle structure
+<img width="1067" height="335" alt="image" src="https://github.com/user-attachments/assets/ad86d871-ffb2-4995-a550-329f2a3293a6" />
+
 🛠️ Technologies Used
 
 HTML5
